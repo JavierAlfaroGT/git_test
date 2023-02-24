@@ -1,0 +1,1 @@
+console.log("infografia de los personajes")
